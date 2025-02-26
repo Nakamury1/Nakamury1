@@ -6,6 +6,6 @@
 To build a website, I use several tools like:
 - Front: HTML, CSS, JS
 - Back: Python, PHP, Node.js
-- Frameworks: Tailwind, Symfony
+- Frameworks: Tailwind, React, Typescript, Symfony
 - Database: SQL
 - Others: Wordpress, Git, SCSS
